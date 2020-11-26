@@ -1,5 +1,8 @@
 {
-  "apikey": "FkmvBPdPXJm6S6d19Xj2HlBF2qVzoQWCgATkqvM3TFlo",
-  "version": "2018-05-01",
+   "apikey": "FkmvBPdPXJm6S6d19Xj2HlBF2qVzoQWCgATkqvM3TFlo",
+  "iam_apikey_description": "Auto-generated for key fa49ca2e-f218-4eca-959f-b46b953ce888",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/16cb5af518960ebfdac516322a07bede::serviceid:ServiceId-d12ae4d1-7357-42d2-a516-5074029359f6",
   "url": "https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/d51f17ce-4d67-4211-bf5b-055d63afa9b0"
 }
